@@ -9,13 +9,13 @@ Tableau Desktop
 
 Microsoft Excel (for data preparation)
 
-📈 Key Features:
-✅ YTD Sales Metrics — Total Sales, Car Sold, Average Price
-✅ Interactive Filters — Date, Transmission, Body Style, Engine, Gender
-✅ Weekly Sales Trend — Time series to spot seasonal sales behavior
-✅ Sales Breakdown — By Body Style, Color (Pie & Donut Charts)
-✅ Regional Insights — Dealer-wise sales performance (Bar Chart)
-✅ Company-wise Comparison — Key performance stats like car sold, average price, and % of total sales
+📈 Key Features:<br>
+✅ YTD Sales Metrics — Total Sales, Car Sold, Average Price<br>
+✅ Interactive Filters — Date, Transmission, Body Style, Engine, Gender<br>
+✅ Weekly Sales Trend — Time series to spot seasonal sales behavior<br>
+✅ Sales Breakdown — By Body Style, Color (Pie & Donut Charts)<br>
+✅ Regional Insights — Dealer-wise sales performance (Bar Chart)<br>
+✅ Company-wise Comparison — Key performance stats like car sold, average price, and % of total sales<br>
 
 📊 Business Impact:
 This dashboard enables decision-makers to:
